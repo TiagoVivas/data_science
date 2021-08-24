@@ -5,7 +5,7 @@
 </p>
 
 # Tiago Vivas
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub></sub>
 
 Resumo aqui
 
