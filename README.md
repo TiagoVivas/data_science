@@ -7,14 +7,12 @@
 # Tiago Vivas
 <sub></sub>
 
-Resumo aqui
-
-**Experiências em:** Python, Machine Learning e Gestão Financeira.
+* Graduação em Engenharia Elétrica pela UFG
+* Mestrado em Engenharia de Computação pela UFG
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/tiagovivas/)
-* [Medium](https://www.medium.com)
-
+<sub></sub>
 
 ## Projetos:
 
