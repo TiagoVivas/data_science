@@ -10,9 +10,16 @@
 * Graduação em Engenharia Elétrica pela UFG
 * Mestrado em Engenharia de Computação pela UFG
 
+Experiências com:
+* Data Science
+* Robótica
+* Educação
+* Gestão financeira
+
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/tiagovivas/)
-<sub></sub>
+
+---
 
 ## Projetos:
 
