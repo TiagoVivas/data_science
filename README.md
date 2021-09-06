@@ -24,5 +24,6 @@ Experiências com:
 ## Projetos:
 
 * [**Estudo da inflação e taxa Selic no Brasil**](https://github.com/TiagoVivas/data_science/blob/main/Um%20estudo%20sobre%20Infla%C3%A7%C3%A3o%20e%20Selic%20no%20Brasil%20(GitHub).ipynb)
-
+* [**Open Banking e análise de risco de crédito**](https://github.com/TiagoVivas/data_science/blob/main/Open%20Banking%20e%20an%C3%A1lise%20de%20risco%20de%20cr%C3%A9dito%20com%20Machine%20Learning.ipynb)
+ 
 ---
